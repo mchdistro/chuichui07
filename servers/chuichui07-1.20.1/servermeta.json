@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "chuichui07 (Minecraft 1.20.1)",
-    "description": "Minecraft 1.20.1 (Fabric v0.16.13)",
+    "description": "Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "https://github.com/mchdistro/chuichui07/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:25568",
     "discord": {
@@ -14,8 +14,13 @@
     "mainServer": true,
     "autoconnect": true
   },
-  "fabric": {
-    "version": "0.16.13"
+  "forge": {
+    "version": "47.4.0"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt"]
+    }
+  ]
 }
