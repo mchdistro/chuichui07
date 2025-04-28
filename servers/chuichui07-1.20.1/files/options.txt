@@ -1,7 +1,7 @@
 version:3465
 autoJump:false
 realmsNotifications:false
-resourcePacks:["mod_resources","vanilla","file/모여라! 마크 대운동회 0420"]
+resourcePacks:["vanilla","mod_resources","file/모여라! 마크 대운동회 0420.zip"]
 lang:ko_kr
 chatVisibility:0
 chatOpacity:1.0

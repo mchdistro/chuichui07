@@ -500,7 +500,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2250,
+            "size": 2254,
             "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -510,9 +510,9 @@
           "name": "모여라! 마크 대운동회 0420.zip",
           "type": "File",
           "artifact": {
-            "size": 10364062,
+            "size": 10352092,
             "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/resourcepacks/%EB%AA%A8%EC%97%AC%EB%9D%BC!%20%EB%A7%88%ED%81%AC%20%EB%8C%80%EC%9A%B4%EB%8F%99%ED%9A%8C%200420.zip",
-            "MD5": "a2cfa6e7d4f8e6ce447085a9efe47bcc",
+            "MD5": "0139bcdff486e01b1506b17939d14f76",
             "path": "resourcepacks/모여라! 마크 대운동회 0420.zip"
           }
         },
