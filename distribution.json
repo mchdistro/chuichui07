@@ -502,6 +502,7 @@
           "artifact": {
             "size": 2254,
             "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/options.txt",
+            "MD5": "66bbee23f40ad2cb106869df13e4cb99",
             "path": "options.txt"
           }
         },
