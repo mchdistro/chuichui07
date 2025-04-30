@@ -433,13 +433,13 @@
           ]
         },
         {
-          "id": "com.geullo:broadcastmod:1.2@jar",
+          "id": "com.geullo:broadcastmod:1.3@jar",
           "name": "BroadCastMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3590764,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/optionalon/broadcastmod-1.2.jar",
-            "MD5": "15a593a4b5cbb5f89a54e809a9b2f5aa"
+            "size": 3590751,
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/optionalon/broadcastmod-1.3.jar",
+            "MD5": "1f2fd46e35b095b44fc016ad37689cb5"
           },
           "required": {
             "value": false
@@ -476,6 +476,26 @@
           }
         },
         {
+          "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7193768,
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+          }
+        },
+        {
+          "id": "me.ddayo.nameow:name_overwriter:1.0-SNAPSHOT@jar",
+          "name": "Name overwriter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13814,
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/name_overwriter-1.0-SNAPSHOT.jar",
+            "MD5": "1856ee5321f3a98ead2a4c6f6a744604"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -483,6 +503,26 @@
             "size": 2851119,
             "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11913213,
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
+            "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
+          }
+        },
+        {
+          "id": "su.plo.voice.broadcast.server:pv_addon_broadcast:1.1.0@jar",
+          "name": "Pv-addon-broadcast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58461,
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/pv-addon-broadcast-1.1.0.jar",
+            "MD5": "31aa133f084d9521456b522177a1aaf8"
           }
         },
         {
