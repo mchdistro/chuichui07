@@ -536,13 +536,24 @@
           }
         },
         {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1234,
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/config/plasmovoice/client.toml",
+            "MD5": "1a367a2167e699c457ddad52c5b09f9b",
+            "path": "config/plasmovoice/client.toml"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2254,
+            "size": 3721,
             "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/options.txt",
-            "MD5": "66bbee23f40ad2cb106869df13e4cb99",
+            "MD5": "055a5b97a2ca06ed868487a8ce2516d7",
             "path": "options.txt"
           }
         },
@@ -562,9 +573,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 70,
+            "size": 98,
             "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/servers.dat",
-            "MD5": "7135dccbcf2bb2fc6977f2da62d3c19b",
+            "MD5": "46964bd94e9858effb65659ba4e85653",
             "path": "servers.dat"
           }
         },
