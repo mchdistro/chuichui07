@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "chuichui07-1.20.1",
+      "id": "chuichui07_test-1.20.1",
       "name": "chuichui07 (Minecraft 1.20.1)",
       "description": "Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/mchdistro/chuichui07/raw/main/server-icon.png",
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3590752,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/optionalon/broadcastmod-1.3.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/optionalon/broadcastmod-1.3.jar",
             "MD5": "cd6c22c0ffb0c82f4c99e0a7006663c4"
           },
           "required": {
@@ -451,7 +451,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -461,7 +461,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -471,7 +471,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 199753,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/koreanpatch-forge-1.6.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/koreanpatch-forge-1.6.13+mc1.20.1.jar",
             "MD5": "25d09b12e7dbfcdb70d8c6f87d2ee0c1"
           }
         },
@@ -481,7 +481,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7193768,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
           }
         },
@@ -491,7 +491,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13814,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/name_overwriter-1.0-SNAPSHOT.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/name_overwriter-1.0-SNAPSHOT.jar",
             "MD5": "1856ee5321f3a98ead2a4c6f6a744604"
           }
         },
@@ -501,7 +501,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -511,7 +511,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11913213,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
             "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
           }
         },
@@ -521,7 +521,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 58461,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/forgemods/required/pv-addon-broadcast-1.1.0.jar",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/forgemods/required/pv-addon-broadcast-1.1.0.jar",
             "MD5": "31aa133f084d9521456b522177a1aaf8"
           }
         },
@@ -531,7 +531,7 @@
           "type": "File",
           "artifact": {
             "size": 283,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/config/oculus.properties",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
           }
         },
@@ -541,8 +541,7 @@
           "type": "File",
           "artifact": {
             "size": 1234,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/config/plasmovoice/client.toml",
-            "MD5": "1a367a2167e699c457ddad52c5b09f9b",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
         },
@@ -552,8 +551,7 @@
           "type": "File",
           "artifact": {
             "size": 3721,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/options.txt",
-            "MD5": "055a5b97a2ca06ed868487a8ce2516d7",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -563,7 +561,7 @@
           "type": "File",
           "artifact": {
             "size": 10352092,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/resourcepacks/%EB%AA%A8%EC%97%AC%EB%9D%BC!%20%EB%A7%88%ED%81%AC%20%EB%8C%80%EC%9A%B4%EB%8F%99%ED%9A%8C%200420.zip",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/files/resourcepacks/%EB%AA%A8%EC%97%AC%EB%9D%BC!%20%EB%A7%88%ED%81%AC%20%EB%8C%80%EC%9A%B4%EB%8F%99%ED%9A%8C%200420.zip",
             "MD5": "0139bcdff486e01b1506b17939d14f76",
             "path": "resourcepacks/모여라! 마크 대운동회 0420.zip"
           }
@@ -574,7 +572,7 @@
           "type": "File",
           "artifact": {
             "size": 98,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/files/servers.dat",
             "MD5": "46964bd94e9858effb65659ba4e85653",
             "path": "servers.dat"
           }
@@ -585,7 +583,7 @@
           "type": "File",
           "artifact": {
             "size": 452408,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
             "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
             "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
           }
@@ -596,7 +594,7 @@
           "type": "File",
           "artifact": {
             "size": 142509,
-            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/chuichui07_test-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
             "MD5": "73ac2677df6b146ff789c06c73ca67d1",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
           }
