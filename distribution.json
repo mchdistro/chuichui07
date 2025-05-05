@@ -571,9 +571,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 98,
+            "size": 126,
             "url": "https://github.com/mchdistro/chuichui07/raw/main/servers/sports_day-1.20.1/files/servers.dat",
-            "MD5": "46964bd94e9858effb65659ba4e85653",
+            "MD5": "80e2bf63f6425f00ac05d66648fd1f39",
             "path": "servers.dat"
           }
         },
